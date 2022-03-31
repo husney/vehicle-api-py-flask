@@ -1,6 +1,5 @@
 from flask_restful import Resource
 from flask import request
-from itsdangerous import json
 
 from utils.Cursor import Cursor
 from utils.Common import formatResponse
